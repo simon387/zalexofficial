@@ -7,3 +7,4 @@ www.zalexofficial.com
 + https://www.youtube.com/channel/UC-9WEjzrposit6Hvjsfee3w
 + https://www.instagram.com/officialzalex/?utm_medium=copy_link
 + http://www.demilovato.com
++ https://bootstrapmade.com/demo/Personal/
