@@ -8,3 +8,4 @@ www.zalexofficial.com
 + https://www.instagram.com/officialzalex/?utm_medium=copy_link
 + http://www.demilovato.com
 + https://bootstrapmade.com/demo/Personal/
++ https://bootstrapmade.com/personal-free-resume-bootstrap-template/ 
