@@ -11,7 +11,7 @@ www.zalexofficial.com
 + icone
 + twitter?
 + clean console
-+ firma sc
++ ~~firma sc~~
 
 ## link utili
 + http://www.demilovato.com
