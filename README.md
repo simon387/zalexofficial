@@ -10,7 +10,7 @@ www.zalexofficial.com
 + bug mobile
 + icone
 + twitter?
-+ clean console
++ ~~clean console~~
 + ~~firma sc~~
 
 ## link utili
