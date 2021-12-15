@@ -6,10 +6,10 @@ www.zalexofficial.com
 + multilingua
 + le 2 foto 11, 22, 43
 + compila all
-+ links
 + bug mobile
 + icone
-+ twitter?
++ ~~links~~
++ ~~twitter? -> no~~
 + ~~clean console~~
 + ~~firma sc~~
 
