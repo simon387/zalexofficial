@@ -33,6 +33,8 @@ function tr($key)
 			array("contact", "Contact", "Contactos", "Contatti"),
 			array("contact_me", "Contact Me", "Contáctame", "Contattami"),
 			array("learn_more", "Learn more about me", "Aprende más sobre mi", "Scopri di più su di me"),
+			array("youtube", "My personal Youtube channel", "Mi canal de Youtube", "Il mio canale di Youtube"),
+			array("spotify", "My personal Spotify channel", "Mi canal de Spotify", "Il mio canale Spotify"),
 	);
 	for ($i = 0; $i < count($matrix); $i++) {
 		if ($matrix[$i][0] == $key) {

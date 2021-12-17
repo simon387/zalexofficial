@@ -1,3 +1,4 @@
+<?php include_once "util/constants.php" ?>
 <?php include_once "util/translate.php" ?>
 <!DOCTYPE html>
 <html lang="<?= tr('en') ?>">
