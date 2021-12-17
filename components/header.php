@@ -3,14 +3,14 @@
 		<h1><a href="index.php">Zalex</a></h1>
 		<!-- Uncomment below if you prefer to use an image logo -->
 		<!-- <a href="index.php" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-		<h2>I'm a passionate <span>singer</span> from Italy</h2>
+		<h2><?= tr("i_am") ?><span><?= tr("singer") ?></span><?= tr("from_italy") ?></h2>
 		<nav id="navbar" class="navbar">
 			<ul>
-				<li><a class="nav-link active" href="#header">Home</a></li>
-				<li><a class="nav-link" href="#about">About</a></li>
-				<li><a class="nav-link" href="#music">My music</a></li>
-				<li><a class="nav-link" href="#photos">Photos</a></li>
-				<li><a class="nav-link" href="#contact">Contact</a></li>
+				<li><a class="nav-link active" href="#header"><?= tr("home") ?></a></li>
+				<li><a class="nav-link" href="#about"><?= tr("about") ?></a></li>
+				<li><a class="nav-link" href="#music"><?= tr("my_music") ?></a></li>
+				<li><a class="nav-link" href="#photos"><?= tr("photos") ?></a></li>
+				<li><a class="nav-link" href="#contact"><?= tr("contact") ?></a></li>
 				<li><a class="nav-link" href="index.php?lang=en"><i class="flag flag-uk"></i></a></li>
 				<li><a class="nav-link" href="index.php?lang=es"><i class="flag flag-es"></i></a></li>
 				<li><a class="nav-link" href="index.php?lang=it"><i class="flag flag-it"></i></a></li>
@@ -18,7 +18,6 @@
 			<i class="bi bi-list mobile-nav-toggle"></i>
 		</nav>
 		<div class="social-links">
-			<!--			<a href="#" class="twitter"><i class="bi bi-twitter"></i></a>-->
 			<a href="https://www.facebook.com/zalex.budino.7" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
 			<a href="https://www.instagram.com/officialzalex/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
 			<a href="https://www.youtube.com/channel/UC-9WEjzrposit6Hvjsfee3w" target="_blank"><i class="bi bi-youtube"></i></a>

@@ -1,8 +1,8 @@
 <section id="about" class="about">
 	<div class="about-me container">
 		<div class="section-title">
-			<h2>About</h2>
-			<p>Learn more about me</p>
+			<h2><?= tr("about") ?></h2>
+			<p><?= tr("learn_more") ?></p>
 		</div>
 		<div class="row">
 			<div class="col-lg-4" data-aos="fade-right">
