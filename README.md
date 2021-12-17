@@ -8,6 +8,7 @@
 + multilingua
 + compila all
 + working send mail
++ music section
 + ~~bug mobile~~
 + ~~icone~~
 + ~~links~~
