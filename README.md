@@ -16,6 +16,23 @@
 + ~~clean console~~
 + ~~firma sc~~
 
+---
+## config.php example
+```injectablephp
+<?php
+
+class Config
+{
+//	static $db_host = '172.17.0.2';
+//	static $db_name = 'simonecelia';
+//	static $db_username  = 'test';
+//	static $db_password  = 'test';
+//	static $db_statement_0  = "SET GLOBAL time_zone='Europe/Madrid'";
+	static $send_email = true;
+	static $smtp_email = 'simone.celia@simonecelia.it';
+}
+```
+
 ## link utili
 + http://www.demilovato.com
 + https://open.spotify.com/user/zalexgialli?si=MB__4HV5Tru5_6lyDfobhQ&utm_source=copy-link&nd=1
