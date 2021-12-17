@@ -4,8 +4,8 @@
 + test page: www.simonecelia.it/zalexofficial/
 
 ## TODO
-+ multilingua
 + le 2 foto 11, 22, 43
++ multilingua
 + compila all
 + ~~bug mobile~~
 + ~~icone~~
