@@ -3,6 +3,9 @@
 + www.zalexofficial.com
 + test page: www.simonecelia.it/zalexofficial/
 
+## Requirements
++ PhP 7.4+
+
 ## TODO
 + ~~compila tutti i campi moccati~~
 + ~~working send mail~~
