@@ -1,5 +1,6 @@
+<?php include_once "util/translate.php" ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?= tr('en') ?>">
 <?php include "components/head.html"; ?>
 <body>
 <?php include "components/header.html"; ?>
