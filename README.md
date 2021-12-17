@@ -4,10 +4,10 @@
 + test page: www.simonecelia.it/zalexofficial/
 
 ## TODO
-+ multilingua
 + music section
 + working send mail
 + compila tutti i campi moccati
++ ~~multilingua~~
 + ~~le 2 foto 11, 22, 43~~
 + ~~bug mobile~~
 + ~~icone~~

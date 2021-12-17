@@ -25,13 +25,13 @@ echo(minify_html(
 '<section id="photos" class="portfolio">
 	<div class="container">
 		<div class="section-title">
-			<h2>Photos</h2>
-			<p>My Media</p>
+			<h2>' .  tr("photos") . '</h2>
+			<p>' .  tr("my_media") . '</p>
 		</div>
 		<div class="row">
 			<div class="col-lg-12 d-flex justify-content-center">
 				<ul id="portfolio-flters">
-					<li data-filter="*" class="filter-active">All</li>
+					<li data-filter="*" class="filter-active">' .  tr("all") . '</li>
 					<li data-filter=".filter-app">2021</li>
 					<!--li data-filter=".filter-card">Card</li-->
 					<!--li data-filter=".filter-web">Web</li-->

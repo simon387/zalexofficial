@@ -1,8 +1,8 @@
 <section id="music" class="services">
 	<div class="container">
 		<div class="section-title">
-			<h2>My Music</h2>
-			<p>My Music profiles</p>
+			<h2><?= tr("my_music") ?></h2>
+			<p><?= tr("my_music_profiles") ?></p>
 		</div>
 		<div class="row">
 			<div class="col-lg-4 col-md-6 d-flex align-items-stretch">

@@ -1,8 +1,8 @@
 <section id="contact" class="contact">
 	<div class="container">
 		<div class="section-title">
-			<h2>Contact</h2>
-			<p>Contact Me</p>
+			<h2><?= tr('contact') ?></h2>
+			<p><?= tr('contact_me') ?></p>
 		</div>
 		<div class="row mt-2">
 			<div class="col-md-6 d-flex align-items-stretch">
