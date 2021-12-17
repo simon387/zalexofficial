@@ -4,9 +4,10 @@
 + test page: www.simonecelia.it/zalexofficial/
 
 ## TODO
-+ le 2 foto 11, 22, 43
++ ~~le 2 foto 11, 22, 43~~
 + multilingua
 + compila all
++ working send mail
 + ~~bug mobile~~
 + ~~icone~~
 + ~~links~~
