@@ -27,8 +27,10 @@ const matrix = array(//key, en, es, it
 		array("send_ok", "Your message has been sent. Thank you!", "Tu mensaje ha sido enviado. ¡Gracias!", "Il tuo messaggio è stato inviato. Grazie!"),
 		array("send", "Send Message", "Enviar mensaje", "Invia messaggio"),
 		array("about_title", "Singer-songwriter-drummer", "Cantante-compositora-baterista", "Cantante-cantautrice-batterista"),
-		array("about_p2", "about_p2", "about_p2", "about_p2"),
-		array("about_p2", "about_p2", "about_p2", "about_p2"),
+		array("about_p1", "Finalist of Sanremo NewTalent (1-2-3-4-5/02/2022), Finalist of TourMusicFest 2021", "Finalista de Sanremo NewTalent (1-2-3-4-5 / 02/2022), Finalista de TourMusicFest 2021", "Finalista di Sanremo NewTalent (1-2-3-4-5/02/2022), Finalista di TourMusicFest 2021"),
+		array("about_p2", "\"What's the kindest way to say you took away my friend,my buddy.\"", "\"What's the kindest way to say you took away my friend,my buddy.\"", "\"What's the kindest way to say you took away my friend,my buddy.\""),
+		array("age", "Age:", "Años:", "Anno di nascita:"),
+		array("city", "City:", "Ciudad:", "Città:"),
 );
 
 // main translation function

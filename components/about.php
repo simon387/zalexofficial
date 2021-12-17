@@ -16,14 +16,14 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<ul>
-							<li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28 Apr 2005</span></li>
+							<li><i class="bi bi-chevron-right"></i> <strong><?= tr("birthday") ?></strong> <span>28 Apr 2005</span></li>
 							<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.zalexofficial.com</span></li>
 						</ul>
 					</div>
 					<div class="col-lg-6">
 						<ul>
-							<li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>16</span></li>
-							<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Arezzo, Italy</span></li>
+							<li><i class="bi bi-chevron-right"></i> <strong><?= tr("age") ?></strong> <span>16</span></li>
+							<li><i class="bi bi-chevron-right"></i> <strong><?= tr("city") ?></strong> <span>Arezzo, Italy</span></li>
 						</ul>
 					</div>
 				</div>
