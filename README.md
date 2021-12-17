@@ -4,7 +4,7 @@
 + test page: www.simonecelia.it/zalexofficial/
 
 ## TODO
-+ compila tutti i campi moccati
++ ~~compila tutti i campi moccati~~
 + ~~working send mail~~
 + ~~music section~~
 + ~~multilingua~~
