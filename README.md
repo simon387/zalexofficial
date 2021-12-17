@@ -7,7 +7,7 @@
 + multilingua
 + music section
 + working send mail
-+ compila all
++ compila tutti i campi moccati
 + ~~le 2 foto 11, 22, 43~~
 + ~~bug mobile~~
 + ~~icone~~
