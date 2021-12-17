@@ -40,25 +40,25 @@
 		<form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
 			<div class="row">
 				<div class="col-md-6 form-group">
-					<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+					<input type="text" name="name" class="form-control" id="name" placeholder="<?= tr('your_name') ?>" required>
 				</div>
 				<div class="col-md-6 form-group mt-3 mt-md-0">
-					<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+					<input type="email" class="form-control" name="email" id="email" placeholder="<?= tr('your_email') ?>" required>
 				</div>
 			</div>
 			<div class="form-group mt-3">
-				<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+				<input type="text" class="form-control" name="subject" id="subject" placeholder="<?= tr('subject') ?>" required>
 			</div>
 			<div class="form-group mt-3">
-				<textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+				<textarea class="form-control" name="message" rows="5" placeholder="<?= tr('message') ?>" required></textarea>
 			</div>
 			<div class="my-3">
-				<div class="loading">Loading</div>
+				<div class="loading"><?= tr('loading') ?></div>
 				<div class="error-message"></div>
-				<div class="sent-message">Your message has been sent. Thank you!</div>
+				<div class="sent-message"><?= tr('send_ok') ?></div>
 			</div>
 			<div class="text-center">
-				<button type="submit">Send Message</button>
+				<button type="submit"><?= tr('send') ?></button>
 			</div>
 		</form>
 	</div>

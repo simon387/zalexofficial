@@ -19,6 +19,13 @@ const matrix = array(//key, en, es, it
 		array("my_address", "My Address", "Mi dirección", "Il mio indirizzo"),
 		array("social_profiles", "Perfiles sociales", "Mi dirección", "Profili Social"),
 		array("email_me", "Email Me", "Envíeme un correo electrónico", "Mandami una email"),
+		array("your_name", "Your Name", "Tu nombre", "Il tuo nome"),
+		array("your_email", "Your Email", "Tu correo", "La tua email"),
+		array("subject", "Subject", "Sujeto", "Oggetto"),
+		array("message", "Message", "Mensaje", "Messaggio"),
+		array("loading", "Loading", "Cargando", "Caricamento"),
+		array("send_ok", "Your message has been sent. Thank you!", "Tu mensaje ha sido enviado. ¡Gracias!", "Il tuo messaggio è stato inviato. Grazie!"),
+		array("send", "Send Message", "Enviar mensaje", "Invia messaggio"),
 );
 
 // main translation function
