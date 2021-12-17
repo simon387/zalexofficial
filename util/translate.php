@@ -35,6 +35,10 @@ function tr($key)
 			array("learn_more", "Learn more about me", "Aprende más sobre mi", "Scopri di più su di me"),
 			array("youtube", "My personal Youtube channel", "Mi canal de Youtube", "Il mio canale di Youtube"),
 			array("spotify", "My personal Spotify channel", "Mi canal de Spotify", "Il mio canale Spotify"),
+			array("my_address", "My Address", "Mi dirección", "Il mio indirizzo"),
+			array("social_profiles", "Perfiles sociales", "Mi dirección", "Profili Social"),
+			array("email_me", "Email Me", "Envíeme un correo electrónico", "Mandami una email"),
+			array("email_me", "Email Me", "Envíeme un correo electrónico", "Mandami una email"),
 	);
 	for ($i = 0; $i < count($matrix); $i++) {
 		if ($matrix[$i][0] == $key) {

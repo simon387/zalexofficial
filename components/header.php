@@ -18,8 +18,8 @@
 			<i class="bi bi-list mobile-nav-toggle"></i>
 		</nav>
 		<div class="social-links">
-			<a href="https://www.facebook.com/zalex.budino.7" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
-			<a href="https://www.instagram.com/officialzalex/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+			<a href="<?=facebook_link ?>" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+			<a href="<?=instagram_link ?>" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
 			<a href="<?=youtube_link ?>" target="_blank"><i class="bi bi-youtube"></i></a>
 			<a href="<?=spotify_link ?>" target="_blank"><i class="bi bi-spotify"></i></a>
 		</div>
