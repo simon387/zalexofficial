@@ -8,7 +8,7 @@
 + le 2 foto 11, 22, 43
 + compila all
 + bug mobile
-+ icone
++ ~~icone~~
 + ~~links~~
 + ~~twitter? -> no~~
 + ~~clean console~~
@@ -21,3 +21,4 @@
 + https://www.instagram.com/officialzalex/?utm_medium=copy_link
 + https://bootstrapmade.com/demo/Personal/
 + https://bootstrapmade.com/personal-free-resume-bootstrap-template/ 
++ https://favicon.io/favicon-generator/
