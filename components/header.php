@@ -20,8 +20,8 @@
 		<div class="social-links">
 			<a href="https://www.facebook.com/zalex.budino.7" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
 			<a href="https://www.instagram.com/officialzalex/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
-			<a href="https://www.youtube.com/channel/UC-9WEjzrposit6Hvjsfee3w" target="_blank"><i class="bi bi-youtube"></i></a>
-			<a href="https://open.spotify.com/user/zalexgialli?si=MB__4HV5Tru5_6lyDfobhQ&utm_source=copy-link&nd=1" target="_blank"><i class="bi bi-spotify"></i></a>
+			<a href="<?=youtube_link ?>" target="_blank"><i class="bi bi-youtube"></i></a>
+			<a href="<?=spotify_link ?>" target="_blank"><i class="bi bi-spotify"></i></a>
 		</div>
 	</div>
 </header>
