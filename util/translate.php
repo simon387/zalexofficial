@@ -26,6 +26,9 @@ const matrix = array(//key, en, es, it
 		array("loading", "Loading", "Cargando", "Caricamento"),
 		array("send_ok", "Your message has been sent. Thank you!", "Tu mensaje ha sido enviado. ¡Gracias!", "Il tuo messaggio è stato inviato. Grazie!"),
 		array("send", "Send Message", "Enviar mensaje", "Invia messaggio"),
+		array("about_title", "Singer-songwriter-drummer", "Cantante-compositora-baterista", "Cantante-cantautrice-batterista"),
+		array("about_p2", "about_p2", "about_p2", "about_p2"),
+		array("about_p2", "about_p2", "about_p2", "about_p2"),
 );
 
 // main translation function
