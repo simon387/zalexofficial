@@ -7,7 +7,7 @@
 + multilingua
 + le 2 foto 11, 22, 43
 + compila all
-+ bug mobile
++ ~~bug mobile~~
 + ~~icone~~
 + ~~links~~
 + ~~twitter? -> no~~
