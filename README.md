@@ -4,8 +4,8 @@
 + test page: www.simonecelia.it/zalexofficial/
 
 ## TODO
-+ working send mail
 + compila tutti i campi moccati
++ ~~working send mail~~
 + ~~music section~~
 + ~~multilingua~~
 + ~~le 2 foto 11, 22, 43~~
