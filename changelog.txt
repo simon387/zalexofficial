@@ -1,3 +1,7 @@
+Version 1.0.2
+- fix translate engine
+- changed main image
+
 Version 1.0.1
 - fix translation
 - changed versioning format

@@ -49,9 +49,10 @@ function tr($key)
 	$index = 1;
 	if ($lang == "es") {
 		$index = 2;
-	}
-	if ($lang == "it") {
-		$index = 3;
+	} else {
+		if ($lang == "it") {
+			$index = 3;
+		}
 	}
 
 	for ($i = 0; $i < count(matrix); $i++) {
