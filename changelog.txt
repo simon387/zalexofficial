@@ -1,1 +1,5 @@
+Version 1.0.1
+- fix translation
+- changed versioning format
+
 Version 1.0.0 alpha

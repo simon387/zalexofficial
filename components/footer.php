@@ -12,6 +12,6 @@ echo(minify_html('<div class="credits">
 	<!-- Licensing information: https://bootstrapmade.com/license/ -->
 	<!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/personal-free-resume-bootstrap-template/ -->
 	Designed by <a target="_blank" href="https://bootstrapmade.com/">BootstrapMade</a>
-	and <a target="_blank" href="https://www.simonecelia.it/">simonecelia.it</a> ' . $version . '
+	and <a target="_blank" href="https://www.simonecelia.it/">simonecelia.it</a> ' . str_replace("Version ", "v", $version) . '
 </div>'
 ));
