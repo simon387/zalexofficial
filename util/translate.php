@@ -17,7 +17,7 @@ const matrix = array(//key, en, es, it
 		array("youtube", "My personal Youtube channel", "Mi canal de Youtube", "Il mio canale di Youtube"),
 		array("spotify", "My personal Spotify channel", "Mi canal de Spotify", "Il mio canale Spotify"),
 		array("my_address", "My Address", "Mi dirección", "Il mio indirizzo"),
-		array("social_profiles", "Perfiles sociales", "Mi dirección", "Profili Social"),
+		array("social_profiles", "Social Profiles", "Perfiles sociales", "Profili Social"),
 		array("email_me", "Email Me", "Envíeme un correo electrónico", "Mandami una email"),
 		array("your_name", "Your Name", "Tu nombre", "Il tuo nome"),
 		array("your_email", "Your Email", "Tu correo", "La tua email"),
